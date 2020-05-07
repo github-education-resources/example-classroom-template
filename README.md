@@ -1,1 +1,1 @@
-# example-classroom-template
+# Example Classroom template repository
